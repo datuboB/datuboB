@@ -1,4 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hello! I'm Bianca George</h1>
+
+### About Me
+- I'm a student at NIIT, studying software engineering.
+- I'm good at web development.
+- I'm the founder of Black Bianca Collection.
+- I've built simple websites like portfolios.
+
+### Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Connect With Me
+- Email: giftgeorge667@gmail.com
 
 <!--
 **datuboB/datuboB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
